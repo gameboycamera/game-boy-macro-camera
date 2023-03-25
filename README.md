@@ -1,6 +1,8 @@
 # Game Boy Mini Camera
 Make your own Game Boy Camera cart resized to a typical cart (with optional macro capability)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gameboycamera)
+
 **Mini Camera:**<br>
 <img src="assets/IMG_5999.JPG" width=40% height=40%> <img src="assets/IMG_6004.JPG" width=40% height=40%>
 
@@ -20,18 +22,19 @@ Make your own Game Boy Camera cart resized to a typical cart (with optional macr
   * More designs to come?
   
 ## Disclaimer
-This is difficult mod and requires advanced soldering skills! Do NOT attempt as your first soldering project. I am not responsible for any harm done to you, your property, or family.
+**This is a difficult mod and requires advanced soldering skills!** Do NOT attempt as your first soldering project. I am not responsible for any harm done to you, your property, or family. Because of the complication required for this mod, personal support will be limited. Order any parts at your own risk! Please review the license before attempting.
+
   
 ## Materials Needed
-**Standard mini camera:**
+**Standard Mini Camera:**
 * Game Boy Camera
-* Flashable mini cam PCB & components (follow [HDR's components BOM](https://github.com/gameboycamera/game-boy-mini-camera/edit/main/README.md#hdrs-components-bom))
-* 3D printed mini cam shell (3 parts)
+* [Flashable mini cam PCB](https://www.pcbway.com/project/shareproject/Game_Boy_Mini_Camera_flash_cart_b1035426.html) and components (follow [HDR's components BOM](https://github.com/gameboycamera/game-boy-mini-camera/edit/main/README.md#hdrs-components-bom))
+* 3D printed mini cam shell (3 parts: front, back, switch)
 
-**Macro mini camera:**
+**Macro Mini Camera:**
 * Game Boy Camera
-* Flashable mini cam PCB & components (follow [HDR's components BOM](https://github.com/gameboycamera/game-boy-mini-camera/edit/main/README.md#hdrs-components-bom))
-* 3D printed macro cam shell (5 parts)
+* [Flashable mini cam PCB](https://www.pcbway.com/project/shareproject/Game_Boy_Mini_Camera_flash_cart_b1035426.html) and components (follow [HDR's components BOM](https://github.com/gameboycamera/game-boy-mini-camera/edit/main/README.md#hdrs-components-bom))
+* 3D printed macro cam shell (5 parts: front, back, switch, grip, focus)
 * 2x [M1 4mm countersunk screws](https://www.aliexpress.com/item/3256803019262480.html)
 * Glass lens (3 options below)
   * [13mm x 1mm glass lens](https://www.aliexpress.com/item/3256802020476111.html)
@@ -58,8 +61,22 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 ## Additional Images
 <img src="assets/IMG_5978.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%> <img src="assets/IMG_5994.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%>  <img src="assets/IMG_5979.JPG" width=30% height=30%> <img src="assets/IMG_5980.JPG" width=30% height=30%>
 
+## Ordering Instructions
+### PCB:
+* [![](https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://pcbway.com/g/ff6yBp)
+* Create your account using [THIS LINK](https://pcbway.com/g/ff6yBp) for $5 off
+* Thickness: 0.8mm
+* Surface Finish: ENIG (HASL is cheaper, but will not last)
+* Solder Mask: whichever you prefer
+* Edge Connector: nice to have, but not neccessary
+
+### 3D models:
+* 3 versions available: mini, mini w/ grooves, and macro
+* mini model available FREE on Ko-Fi, $15 for the macro model
+* Also available for order on Shapeways
+
 ## Contributions
-* **HDR** - for the [Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart)
+* **HDR** - for the [Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart) - This project has been uploaded with his permission
 * **Hatch** - for design ideas & [Game Boy Camera shell models](https://github.com/hatchman/Game-Boy-Camera-Shell)
 * **Toxa** - the [Photo!](https://github.com/untoxa/gb-photo) ROM creator
 * **Lilybees** - for the idea of integrating macro photography
