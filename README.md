@@ -56,7 +56,7 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 | U4 | [TPRT9013-33G](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_TECH-PUBLIC-TPRT9013-33GB_C587158.html) | 3.3V Voltage Regulator |
 
 ## Additional Images
-<img src="assets/IMG_5978.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%> <img src="assets/IMG_5992.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%>  <img src="assets/IMG_5979.JPG" width=30% height=30%> <img src="assets/IMG_5980.JPG" width=30% height=30%>
+<img src="assets/IMG_5978.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%> <img src="assets/IMG_5994.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%>  <img src="assets/IMG_5979.JPG" width=30% height=30%> <img src="assets/IMG_5980.JPG" width=30% height=30%>
 
 ## Contributions
 * **HDR** - for the [Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart)
