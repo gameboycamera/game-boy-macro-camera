@@ -1,6 +1,14 @@
 # Game Boy Mini Camera
 A Game Boy Camera cart resized to a typical cart (with optional macro capability)
 
+**Mini Camera:**<br>
+<img src="assets/IMG_5999.JPG" width=40% height=40%> <img src="assets/IMG_6004.JPG" width=40% height=40%>
+
+**Mini Macro Camera:**<br>
+<img src="assets/IMG_5976.JPG" width=40% height=40%> <img src="assets/IMG_5982.JPG" width=40% height=40%>
+<br>Macro in action:<br>
+<img src="assets/macro.gif" width=40% height=40%>
+
 ## Features
 * Smaller design for more portable carry
 * Based on [HDR's camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart)
@@ -46,6 +54,9 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 | U2 | [AM29F016](https://www.aliexpress.com/item/33043533022.html) | 2MB Flash |
 | U3 | [FM28V100](https://www.aliexpress.com/item/4001322883101.html) | 1MB FRAM |
 | U4 | [TPRT9013-33G](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_TECH-PUBLIC-TPRT9013-33GB_C587158.html) | 3.3V Voltage Regulator |
+
+## Additional Images
+<img src="assets/IMG_5978.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%> <img src="assets/IMG_5982.JPG" width=30% height=30%> <img src="assets/IMG_5977.JPG" width=30% height=30%>  <img src="assets/IMG_5979.JPG" width=30% height=30%> <img src="assets/IMG_5980.JPG" width=30% height=30%>
 
 ## Contributions
 * **HDR** - for the [Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart)
