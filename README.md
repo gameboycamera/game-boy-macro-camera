@@ -77,7 +77,7 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
   * [macro shell](https://ko-fi.com/s/bfdf3b0162)
 * Order from PCBWay
   * [mini shells](https://www.pcbway.com/project/shareproject/Game_Boy_Mini_Camera_shell_smooth_3a432b1e.html)
-  * macro shell (coming soon)
+  * [macro shell](https://www.pcbway.com/project/shareproject/Game_Boy_Mini_Macro_Camera_7a1d1dbb.html)
 * Order from Shapeways
   * [mini shells](https://www.shapeways.com/shops/game-boy-camera?section=Game+Boy+Mini+Camera)
   * [macro shells](https://www.shapeways.com/shops/game-boy-camera?section=Game+Boy+Mini+Macro+Camera)
@@ -86,6 +86,6 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 * **HDR** - for the [Game Boy Camera flash cart](https://github.com/HDR/Gameboy-Camera-Flashcart) - This project has been uploaded with his permission
 * **Hatch** - for design ideas & [Game Boy Camera shell models](https://github.com/hatchman/Game-Boy-Camera-Shell)
 * **Toxa** - the [Photo!](https://github.com/untoxa/gb-photo) ROM creator
-* **Lilybees** - for the idea of integrating macro photography
+* **Lilysocket** - for the idea of integrating macro photography
 * **Cody Wick** - as usual, Cody's support and enthusiasm is unparalleled
 * **Game Boy Camera Club & Game Boy modding community** - for support & inspiration
