@@ -66,7 +66,7 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 [![](https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://pcbway.com/g/ff6yBp)
 * Create your account using [THIS LINK](https://pcbway.com/g/ff6yBp) for $5 off
 * Thickness: 0.8mm
-* Surface Finish: ENIG (HASL is cheaper, but will not last)
+* Surface Finish: ENIG
 * Solder Mask: whichever you prefer
 * Edge Connector: nice to have, but not neccessary
 
