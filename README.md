@@ -72,7 +72,9 @@ Lifted from [HDR's GitHub page](https://github.com/HDR/Gameboy-Camera-Flashcart)
 
 ### 3D models:
 * 3 versions available: mini, mini w/ grooves, and macro
-* mini model available FREE on Ko-Fi, $15 for the macro model (links available soon)
+* mini model available FREE on Ko-Fi, $15 for the macro model
+  * [mini shells](https://ko-fi.com/s/905793cd97)
+  * [macro shells](https://ko-fi.com/s/bfdf3b0162)
 * Also available for order on Shapeways
   * [mini shells](https://www.shapeways.com/shops/game-boy-camera?section=Game+Boy+Mini+Camera)
   * [macro shells](https://www.shapeways.com/shops/game-boy-camera?section=Game+Boy+Mini+Macro+Camera)
