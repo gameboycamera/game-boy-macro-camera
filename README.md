@@ -1,4 +1,4 @@
-# Game Boy Mini Camera
+# Game Boy Macro Camera
 Make your own Game Boy Camera cart resized to a typical cart (with optional macro capability)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gameboycamera)
